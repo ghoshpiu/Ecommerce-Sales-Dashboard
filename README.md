@@ -53,7 +53,7 @@ This dashboard is intended for business analysts and decision-makers to:
 ## 🚀 Getting Started
 
 To view or edit the dashboard:
-1. Download the `.pbix` file (if included).
+1. Download the datasets given above.
 2. Open it using Power BI Desktop.
 3. Explore the dashboard using slicers and filters.
 
